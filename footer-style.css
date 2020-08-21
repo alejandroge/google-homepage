@@ -1,0 +1,49 @@
+footer {
+  width: 100%;
+  color: rgba(0, 0, 0, 0.54);
+  background-color: #f2f2f2;
+  font-size: 15px;
+  font-family: arial, sans-serif;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  line-height: 40px;
+}
+
+footer div {
+  position: relative;
+  padding: 0px;
+  border-top: 1px solid #e4e4e4;
+}
+
+footer div:last-child {
+  color: #5f6368;
+}
+
+footer ul {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+
+footer ul li {
+  display: inline-block;
+  list-style: none;
+  padding-left: 27px;
+}
+
+footer ul li a {
+  color: inherit;
+  text-decoration: none;
+}
+footer ul li a:hover {
+  text-decoration: underline;
+}
+
+footer ul.left {
+  float: left;
+}
+footer ul.right {
+  float: right;
+  margin-right: 30px;
+}
