@@ -30,10 +30,6 @@ footer ul li {
   padding-left: 27px;
 }
 
-footer ul li a {
-  color: inherit;
-  text-decoration: none;
-}
 footer ul li a:hover {
   text-decoration: underline;
 }
@@ -41,6 +37,7 @@ footer ul li a:hover {
 footer ul.left {
   float: left;
 }
+
 footer ul.right {
   float: right;
   margin-right: 30px;

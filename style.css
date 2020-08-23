@@ -4,8 +4,18 @@
   font-family: arial, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .main {
   position: relative;
+  padding: 120px 0px;
 }
 
 .main .logo {
@@ -47,5 +57,4 @@
 
 .main form p a {
   color: #609;
-  text-decoration: none;
 }
