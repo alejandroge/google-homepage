@@ -15,7 +15,7 @@ a:hover {
 
 .main {
   position: relative;
-  padding: 120px 0px;
+  padding-top: 95px;
 }
 
 .main .logo {
@@ -47,7 +47,13 @@ a:hover {
   border: 1px solid #f2f2f2;
   padding: 10px 15px;
   margin: 0 5px;
-  color: #222;
+  color: #5F6368;
+  border-radius: 0.3em;
+}
+
+.main form .buttons input:hover {
+  border: 1px solid #c2c2c2;
+  cursor: pointer;
 }
 
 .main form p {
