@@ -1,7 +1,7 @@
 # google-homepage
 A replica of the Google homepage made by myself
 
-You can see this page [here](alejandroge.github.io/google-homepage/)
+You can see this page [here](https://alejandroge.github.io/google-homepage/)
 
 ## Todo:
 - Search Bar:
